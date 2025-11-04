@@ -1,5 +1,3 @@
-//should work
-//Pin 31 may not work IDK test it thursday
 //Redownload this file onto arduino
 #include <WiFi.h>
 #include <BluetoothSerial.h>
