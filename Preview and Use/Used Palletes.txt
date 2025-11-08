@@ -1,7 +1,0 @@
-@flowfuse/node-red-dashboard
-@technithusiast/node-red-contrib-ai-intent
-node-red
-node-red-contrib-ip
-node-red-contrib-ollama
-node-red-contrib-simple-gate
-node-red-dashboard
